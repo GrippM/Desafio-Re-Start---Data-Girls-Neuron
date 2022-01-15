@@ -1,4 +1,4 @@
-# Compartilho o notebook do desfio (Re)Start Data Science! Data Gilrs Neuron!
+# Compartilho o notebook do desafio (Re)Start Data Science! Data Gilrs Neuron!
 
 Esse é o notebook criado para o desafio final da primeira edição do evento, cujo principal objetivo foi a inserção de mulheres na área de dados. Foram 5 dias de conteúdo, atividades práticas, palestras sobre temas em dados, mercado de trabalho, monitorias e aplicações.
 
